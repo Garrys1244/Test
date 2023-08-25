@@ -1,7 +1,5 @@
 <?php
 
-$eng = "engl";
-$greak = "λέξη";
-
-echo "english: ", strlen($eng), " greak: ", mb_strlen($greak), "\n";
-echo "hello";
+for($i = 0; $i < 10; $i++) {
+    echo $i,;  "\n"
+}
